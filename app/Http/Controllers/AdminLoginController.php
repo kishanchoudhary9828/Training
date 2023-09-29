@@ -8,6 +8,7 @@ class AdminLoginController extends Controller
 {
     public function(){
         return redirect('hdihdifjdiofdji');
+        vifokfljrkovjfio;bhfjger
     }
     
 }
