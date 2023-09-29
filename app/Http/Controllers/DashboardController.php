@@ -12,5 +12,7 @@ class DashboardController extends Controller
     }
     
 
-fhltjbj5-gmcl dj9tdvm kliotrd
+public function FunctionName() : Returntype {
+    
+}
 }
