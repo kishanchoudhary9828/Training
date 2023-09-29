@@ -19,6 +19,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 route::get('indexview',[DashboardController::class,'index']);
+route::get('indexview',[DashboardController::class,'index']);
 
 
 // route::get('loginview',[DashboardController::class,'login']);
