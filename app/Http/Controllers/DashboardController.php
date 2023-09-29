@@ -8,9 +8,9 @@ class DashboardController extends Controller
 {
     public function index(){
        
-        return view('dashboard');
+        return view('dashboard.ijhdigddfn');
     }
     
 
-fhltjbj5-gmcl dj9tdvm kliotrd
+ 
 }
