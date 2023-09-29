@@ -7,7 +7,7 @@ use App\Models;
 class AdminLoginController extends Controller
 {
     public function(){
-        return redirect();
+        return redirect('hdihdifjdiofdji');
     }
     
 }
